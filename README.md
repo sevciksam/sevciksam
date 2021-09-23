@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sevciksam
+- 👀 I’m interested in Web Development and Mobile Development
+- 🌱 I’m currently learning React, Node.js, Tailwind
+- 💞️ I’m looking to collaborate on Web apps
+- 📫 How to reach me? Hit me on email: sevciksam@gmail.com or ig/@sevciksam
