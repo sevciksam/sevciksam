@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sevciksam
 - 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning Nextjs, React Native and Node.js
+- 🌱 I’m currently using Nextjs, React, React Native and Node.js
 - 💞️ I’m looking to collaborate on Web apps or Mobile Apps
 - 📫 How to reach me? Hit me on email: sevciksam@gmail.com or ig/@sevciksam
